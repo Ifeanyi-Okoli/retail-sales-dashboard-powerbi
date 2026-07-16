@@ -8,11 +8,17 @@ The dashboard provides executives with insights into sales performance, profitab
 ________________________________________
 Dashboard Preview
 
-![Executive Dashboard](Executive-Dashboard.png)
+## Dashboard Preview
 
-![Sales by Region](dashboard-west.png)
+![Executive Dashboard](images/Executive-Dashboard.PNG)
 
-![Customer Segment](dashboard-consumer-segment.png)
+## Regional Sales
+
+![West Region](images/dashboard-west.PNG)
+
+## Customer Segment
+
+![Customer Segment](images/dashboard-consumer segment.PNG)
 ________________________________________
 Business Problem
 Retail managers require an easy way to monitor sales performance across different regions, product categories and customer segments.
