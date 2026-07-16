@@ -18,7 +18,7 @@ Dashboard Preview
 
 ## Customer Segment
 
-![Customer Segment](images/dashboard-consumer segment.PNG)
+![Customer Segment](images/dashboard-consumer-segment.PNG)
 ________________________________________
 Business Problem
 Retail managers require an easy way to monitor sales performance across different regions, product categories and customer segments.
