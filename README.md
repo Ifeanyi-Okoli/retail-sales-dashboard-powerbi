@@ -6,8 +6,6 @@ Project Overview
 This project is an interactive Retail Sales Dashboard built in Microsoft Power BI using the Sample Superstore dataset.
 The dashboard provides executives with insights into sales performance, profitability, customer segments and regional trends.
 ________________________________________
-Dashboard Preview
-
 ## Dashboard Preview
 
 ![Executive Dashboard](images/Executive-Dashboard.PNG)
@@ -20,11 +18,11 @@ Dashboard Preview
 
 ![Customer Segment](images/dashboard-consumer-segment.PNG)
 ________________________________________
-Business Problem
+**Business Problem**
 Retail managers require an easy way to monitor sales performance across different regions, product categories and customer segments.
 This dashboard provides an executive-level overview of key business metrics to support data-driven decision making.
 ________________________________________
-Dataset
+**Dataset**
 Source:
 Sample Superstore Dataset
 Contains approximately:
@@ -35,7 +33,7 @@ Contains approximately:
 •	Profit Information 
 •	Order Dates 
 ________________________________________
-Features
+**Features**
 ✔ Executive KPI Cards
 •	Total Sales 
 •	Total Profit 
@@ -53,7 +51,7 @@ Features
 •	Profit by Region 
 •	Customer Distribution by Segment 
 ________________________________________
-Data Preparation
+**Data Preparation**
 Data cleaning was completed using Power Query.
 Tasks performed included:
 •	Corrected US date formatting using Locale 
@@ -62,7 +60,7 @@ Tasks performed included:
 •	Created Date hierarchy 
 •	Removed data type inconsistencies 
 ________________________________________
-Data Model
+**Data Model**
 Fact Table
 •	Sales 
 Dimension Table
@@ -74,7 +72,7 @@ Calendar[Date]
        ▼
 Sales[Order Date]
 ________________________________________
-DAX Measures
+**DAX Measures**
 Examples include:
 Total Sales =
 SUM(sales[Sales])
@@ -91,18 +89,30 @@ DISTINCTCOUNT(sales[Order ID])
 Total Customers =
 DISTINCTCOUNT(sales[Customer ID])
 ________________________________________
-Skills Demonstrated
-•	Microsoft Power BI 
-•	Power Query 
-•	DAX 
-•	Data Cleaning 
-•	Data Modelling 
-•	Dashboard Design 
-•	KPI Reporting 
-•	Business Intelligence 
+## Skills Demonstrated
+
+- Power BI
+- Power Query
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- Interactive Dashboards
+- KPI Reporting
+- Slicers & Filters
+- Time Intelligence
+- Data Visualization
+
+___________________________________________
+## Key Insights
+
+- Generated over £2.3M in total sales.
+- Technology was the highest-selling category.
+- The West region generated the highest profit.
+- Profit margin remained above 12%.
+- Interactive filters allow users to analyze performance by year, region, category and customer segment.
 ________________________________________
 Dashboard
-![Dashboard](Executive-Dashboard.png)
+![Executive Dashboard](images/Executive-Dashboard.PNG)
  ___________________________
 Author
 Ifeanyi Okoli
