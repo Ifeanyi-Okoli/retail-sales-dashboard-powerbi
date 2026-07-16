@@ -7,7 +7,7 @@ This project is an interactive Retail Sales Dashboard built in Microsoft Power B
 The dashboard provides executives with insights into sales performance, profitability, customer segments and regional trends.
 ________________________________________
 Dashboard Preview
- ![Dashboard](images/Executive Dashboard.png)
+ ![Dashboard](images/Executive-Dashboard.png)
 ________________________________________
 Business Problem
 Retail managers require an easy way to monitor sales performance across different regions, product categories and customer segments.
@@ -91,7 +91,7 @@ Skills Demonstrated
 •	Business Intelligence 
 ________________________________________
 Dashboard
-![Dashboard](Executive Dashboard.png)
+![Dashboard](Executive-Dashboard.png)
  ___________________________
 Author
 Ifeanyi Okoli
